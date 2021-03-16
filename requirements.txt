@@ -1,0 +1,11 @@
+easydict==1.9
+torch==1.2.0
+apex==0.1
+numpy==1.16.4
+opencv_contrib_python==4.1.0.25
+matplotlib==3.1.0
+torchsummary==1.5.1
+torchvision==0.4.0
+tqdm==4.40.0
+asposestorage==1.0.2
+Pillow==8.0.1
